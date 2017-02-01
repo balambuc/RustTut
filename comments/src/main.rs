@@ -1,5 +1,5 @@
 fn main() {
-    println!("5+1= {}",add_one(5));
+    println!("5+1= {}", add_one(5));
 }
 
 /// Adds one to the number given.
